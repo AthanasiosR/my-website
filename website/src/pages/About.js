@@ -17,7 +17,7 @@ function About() {
           decided to pursue my interest in web development as a full time career
           by enrolling in Concordias Full-stack Web Development bootcamp. For
           the past year I've been working as a Full Stack web developer
-          primerily working on front-end development. My main role has been to
+          primarily working on front-end development. My main role has been to
           help create new features for websites as well as performing bug fixes.
         </p>
       </div>
