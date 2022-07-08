@@ -23,6 +23,11 @@ function Projects() {
                 <a href={item.link} target="_blank" rel="noreferrer">
                   Link to source code
                 </a>
+                <span> </span>
+                <a href={item.demo} target="_blank" rel="noreferrer">
+                  Live Demo
+                </a>
+
               </div>
             </div>
           );
